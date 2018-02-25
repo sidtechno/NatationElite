@@ -1,0 +1,4 @@
+WORDPRESS
+
+user: eliteadmin
+pass: Elite*2017
